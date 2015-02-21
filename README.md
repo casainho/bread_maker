@@ -16,3 +16,7 @@ NOTE: I am just a curious, I do not have any knowledge about how to make bread.
 I can think of [RepRap 3D Printers project](http://reprap.org/), that develops complex 3D Printers as Open Source and community project.
 
 If you have any suggestions, ideas, etc, please contact me at: casainho@gmail.com
+
+# Licence
+
+GPL V3 license because I believe in open development. Please do not use in products (bread machines, etc) that are closed source or are crippled by a patent.
